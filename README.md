@@ -8,3 +8,4 @@ Ejercicios con python de exercism.org
 :large_orange_diamond: Collatz Conjecture alternativo   
 :large_orange_diamond: Leap   
 :large_orange_diamond: Triangle 
+:large_orange_diamond: Grains   
